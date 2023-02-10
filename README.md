@@ -1,4 +1,7 @@
-### Hi there 👋
+### Salut, moi c'est Axel "Siergfied"
+
+##Je suis un développeur web
+Après avoir décidé de changer de carrière. J'ai décidé de revenir à un domaine qui me passionne. Le développement. Aprèsa voir suivis une formation chez OpenClassrooms, je continue d'étendre mes compétences sur divers langages et technologies
 
 <!--
 **Siergfied/Siergfied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
