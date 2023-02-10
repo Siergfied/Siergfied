@@ -3,6 +3,10 @@
 <h2>Je suis un développeur web</h2>
 Après avoir décidé de changer de carrière. J'ai décidé de revenir à un domaine qui me passionne. Le développement. Aprèsa voir suivis une formation chez OpenClassrooms, je continue d'étendre mes compétences sur divers langages et technologies
 
+<h2>Mes compétences</h2>
+[HTML5]
+[CSS3]
+[JavaScript]
 <!--
 **Siergfied/Siergfied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
