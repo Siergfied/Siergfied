@@ -1,4 +1,4 @@
-<h1>Salut, moi c'est Axel "Siergfied"</h1>
+<h1 align="center">Salut, moi c'est Axel "Siergfied"</h1>
 
 ##Je suis un développeur web
 Après avoir décidé de changer de carrière. J'ai décidé de revenir à un domaine qui me passionne. Le développement. Aprèsa voir suivis une formation chez OpenClassrooms, je continue d'étendre mes compétences sur divers langages et technologies
