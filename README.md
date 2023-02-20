@@ -1,7 +1,7 @@
 # Salut, moi c'est Axel "Siergfied"
 
 ## Je suis un développeur web
-Après avoir décidé de changer de carrière. J'ai décidé de revenir à un domaine qui me passionne. Le développement. Aprèsa voir suivis une formation chez OpenClassrooms, je continue d'étendre mes compétences sur divers langages et technologies
+Après avoir décidé de changer de carrière. J'ai décidé de revenir à un domaine qui me passionne. Le développement. Après avoir suivis une formation chez OpenClassrooms, je continue d'étendre mes compétences sur divers langages et technologies
 
 ## Mes compétences
 Les différents langages et technologie que j'ai pu utiliser lors de ma formation.
